@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🌱 I’m currently learning **C++**<br><br>- 💬 Ask me about : **Discord Tech (Bots,Tokens...)**<br><br>- 📫 How to reach me : **laichouchiryan@gmail.com**<br><br>- ⚡ Fun fact : **There were active volcanoes on the moon when dinosaurs were alive.**
+<br>- 🌱 I’m currently learning **C++**<br><br>- 💬 Ask me about : **Anything! (coding,physics...)**<br><br>- 📫 How to reach me : **laichouchiryan@gmail.com**<br><br>- ⚡ Fun fact : **There were active volcanoes on the moon when dinosaurs were alive.**
 
 
 ## 🌐 Socials:
