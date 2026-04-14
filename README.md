@@ -1,14 +1,14 @@
 <div align="center">
 
-# Haiii! , I'm Rayan
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Haii+%F0%9F%91%8B%2C+I'm+Rayan;Co-Founder+%40+RSN+Dev;Web+%26+Systems+Developer)](https://git.io/typing-svg)
 
-**Co-Founder @ RSN Dev · Web & Systems Developer**
-
-*I build things for the web — and occasionally win at chess.*
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-leyncx.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://leyncx.vercel.app)
-[![RSN Dev](https://img.shields.io/badge/RSN_Dev-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RSNDev)
-[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![RSN Dev](https://img.shields.io/badge/RSN_Dev-Organisation-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RSNDev)
+[![Email](https://img.shields.io/badge/Email-Contact-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=laichouchi&color=orange&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -16,18 +16,20 @@
 
 ### 👤 About Me
 
-I'm a developer and co-founder based in **Algeria 🇩🇿**, working on web products and systems through **RSN Dev** — a developer-focused organisation I co-founded.
-
-I care about clean architecture, performance, and writing code that doesn't need comments to make sense. When I'm not coding, I'm probably losing a chess match and pretending it was a strategic sacrifice.
+- 🏢 **Co-Founder** at [RSN Dev](https://github.com/RSNDev) — building developer tools & web products
+- 🌍 **Based in** Algeria
+- 💻 **Working with** JavaScript, TypeScript, C++, Python
+- 🔭 **Currently exploring** systems programming & web architecture
+- ♟️ **Hobby** — chess player, still chasing that first clean win
+- 📬 **Reach me at** your@email.com
 
 ---
 
-### 🚀 What I'm Working On
+### 🚀 What I'm Building
 
-- 🏗️ Building and growing **[RSN Dev](https://github.com/RSNDev)** — developer tools & web products
-- ⚙️ Deepening my systems knowledge with **C++**
-- 🌐 Exploring **web architecture** and **performance optimisation**
-- ♟️ Trying (and failing) to hit 1000 ELO
+- 🏗️ Growing **RSN Dev** — from side project to a real dev organisation
+- ⚙️ Going deeper on **C++ and systems-level thinking**
+- 🛠️ Experimenting with **performance and developer tooling**
 
 ---
 
@@ -77,10 +79,12 @@ I care about clean architecture, performance, and writing code that doesn't need
 
 <div align="center">
 
-Feel free to reach out if you want to collaborate, talk dev, or just say hi.
+*Feel free to reach out — whether it's to collaborate, talk dev, or just say hi.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-leyncx.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://leyncx.vercel.app)
-[![RSN Dev](https://img.shields.io/badge/RSN_Dev-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RSNDev)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://leyncx.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laichouchi)
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
@@ -89,6 +93,6 @@ Feel free to reach out if you want to collaborate, talk dev, or just say hi.
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=laichouchi&color=orange&style=flat-square&label=Profile+Views)
+*Writing clean code. Shipping real things.*
 
 </div>
