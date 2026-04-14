@@ -20,8 +20,8 @@
 - 🌍 **Based in** Algeria
 - 💻 **Working with** JavaScript, TypeScript, C++, Python
 - 🔭 **Currently exploring** systems programming & web architecture
-- ♟️ **Hobby** — chess player, still chasing that first clean win
-- 📬 **Reach me at** your@email.com
+- ♟️ **Hobby** — chess player, still chasing that 1500 Elo
+- 📬 **Reach me at** laichouchiryan@email.com
 
 ---
 
