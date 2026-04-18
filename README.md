@@ -16,7 +16,7 @@
 
 ### 👤 About Me
 
-- 🏢 **Co-Founder** at [RSN Dev](https://github.com/RSNDev) — building developer tools & web products
+- 🏢 **Co-Founder** at [RSN Dev](https://github.com/RSNDevalgeria) — building developer tools & web products
 - 🌍 **Based in** Algeria
 - 💻 **Working with** JavaScript, TypeScript, C++, Python
 - 🔭 **Currently exploring** systems programming & web architecture
