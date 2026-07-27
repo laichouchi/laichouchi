@@ -58,21 +58,13 @@
 
 ---
 
-### 📊 GitHub Stats
+## 🏅 Certifications
 
-<div align="center">
+[![EF SET English Certificate](https://shields.io)](https://efset.org)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=laichouchi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laichouchi&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=laichouchi&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
+- **Exam:** [EF Standardized English Test (EF SET)](https://efset.org)
+- **My Score:** 67/100 (C1 Advanced)
+- **Skills:** Reading (C2), Listening (C2), Speaking (C2), Writing (B1)
 ---
 
 ### 📫 Connect With Me
