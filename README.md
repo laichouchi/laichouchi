@@ -60,11 +60,10 @@
 
 ## 🏅 Certifications
 
-[![EF SET English Certificate](https://shields.io)](https://efset.org)
+[![EF SET English Certificate](https://img.shields.io/badge/EF_SET-67%2F100_C1_Advanced-0066FF?style=flat-square&logo=googleacademic&logoColor=white)](https://cert.efset.org/en/o7BPFD)
 
-- **Exam:** [EF Standardized English Test (EF SET)](https://efset.org)
-- **My Score:** 67/100 (C1 Advanced)
-- **Skills:** Reading (C2), Listening (C2), Speaking (C2), Writing (B1)
+- **Exam:** [EF Standardized English Test (EF SET)](https://cert.efset.org/en/o7BPFD)
+- **Score:** `67/100` — **C1 Advanced**
 ---
 
 ### 📫 Connect With Me
