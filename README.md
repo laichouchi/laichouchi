@@ -84,6 +84,6 @@
 
 <div align="center">
 
-*Writing clean code. Shipping real things.*
+*Me like tea .*
 
 </div>
