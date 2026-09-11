@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-leyncx.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://leyncx.vercel.app)
 [![RSN Dev](https://img.shields.io/badge/RSN_Dev-Organisation-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RSNDevalgeria)
-[![Email](https://img.shields.io/badge/Email-Contact-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laichouchiryan@email.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=laichouchi&color=orange&style=for-the-badge&label=Profile+Views)
 
@@ -30,6 +30,21 @@
 - 🏗️ Growing **RSN Dev** — from side project to a real dev organisation
 - ⚙️ Going deeper on **C++ and systems-level thinking**
 - 🛠️ Experimenting with **performance and developer tooling**
+
+---
+
+### 🌍 Open Source Contributions
+
+I enjoy helping open-source projects through bug fixes, translations, documentation, and developer tooling.
+
+| Project | Contribution | Status |
+|---|---|---|
+| [PhilanthroPy](https://github.com/PhilanthroPy-Project/PhilanthroPy/pull/218) | Windows drive-path validation fix | ✅ Merged |
+| [mcp-migrate](https://github.com/dheerajjha/mcp-migrate/pull/263) | Added Serena MCP registry entry | ✅ Merged |
+| [Super Productivity](https://github.com/super-productivity/super-productivity/pull/10053) | Fixed task-view sort persistence | 🔍 In review |
+| [Hiero SDK Python](https://github.com/hiero-ledger/hiero-sdk-python/pull/2654) | Improved CI label-cleanup permissions | 🔍 In review |
+
+> More contributions and experiments are available in my [repositories](https://github.com/laichouchi?tab=repositories).
 
 ---
 
@@ -76,7 +91,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://leyncx.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laichouchi)
-[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laichouchiryan@email.com)
 
 </div>
 
